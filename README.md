@@ -4,3 +4,4 @@
 ![Fridge](https://github.com/user-attachments/assets/b0e796f0-a457-48be-8f93-dd395d21122f)
 ![Shelf](https://github.com/user-attachments/assets/a72c8485-ef0f-4b14-aa7a-5192ba948f83)
 ![Table_And_Utensils](https://github.com/user-attachments/assets/b1cce60a-9ff6-44c6-b4ae-766e4451ae06)
+![Box Corner Room 2](https://github.com/user-attachments/assets/4d893a93-f22e-4afb-8f0c-83ca8171e50d)

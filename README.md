@@ -1,7 +1,7 @@
 Most recent update:
 ---------------------------------
-Lab 3 - Creating Detailed Assets
-![Screenshot (24)](https://github.com/user-attachments/assets/737e2482-9b04-454f-9609-a6b3d0794456)
+Challenge 3 - Creating Detailed Assets (Part 2) 
+![Screenshot (42)](https://github.com/user-attachments/assets/0c3bb752-9477-43cb-9218-36c92907289f)
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 Box Modeling Screen Shots
@@ -13,3 +13,4 @@ Box Modeling Screen Shots
 ![Shelf](https://github.com/user-attachments/assets/a72c8485-ef0f-4b14-aa7a-5192ba948f83)
 ![Table_And_Utensils](https://github.com/user-attachments/assets/b1cce60a-9ff6-44c6-b4ae-766e4451ae06)
 ![Box Corner Room 2](https://github.com/user-attachments/assets/4d893a93-f22e-4afb-8f0c-83ca8171e50d)
+![Screenshot (24)](https://github.com/user-attachments/assets/737e2482-9b04-454f-9609-a6b3d0794456)

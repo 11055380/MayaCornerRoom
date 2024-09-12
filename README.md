@@ -1,3 +1,11 @@
+Most recent update:
+---------------------------------
+Lab 3 - Creating Detailed Assets
+![Screenshot (24)](https://github.com/user-attachments/assets/737e2482-9b04-454f-9609-a6b3d0794456)
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+Box Modeling Screen Shots
+------------------------------
 ![Box Corner Room](https://github.com/user-attachments/assets/a345e5bf-541a-4723-91ad-c2734aea6470)
 ![Chair](https://github.com/user-attachments/assets/83901382-935e-4cd5-b4d4-d03c35447d3d)
 ![Counter](https://github.com/user-attachments/assets/2a83e8ae-67c4-455d-80ef-aa29c897bd91)

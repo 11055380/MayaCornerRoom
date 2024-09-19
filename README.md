@@ -1,7 +1,7 @@
 Most recent update:
 ---------------------------------
-Lab 4: Detailed Polygon Models of Indoor Scene 
-![Screenshot (48)](https://github.com/user-attachments/assets/ea08deda-3235-41a2-a5c5-36cc9eba1a80)
+Challenge 4: Finish Detailed Models & Materials 
+![Screenshot (52)](https://github.com/user-attachments/assets/8a268a88-6c70-41a7-9139-a10c99634084)
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 Box Modeling Screen Shots
@@ -15,3 +15,4 @@ Box Modeling Screen Shots
 ![Box Corner Room 2](https://github.com/user-attachments/assets/4d893a93-f22e-4afb-8f0c-83ca8171e50d)
 ![Screenshot (24)](https://github.com/user-attachments/assets/737e2482-9b04-454f-9609-a6b3d0794456)
 ![Screenshot (42)](https://github.com/user-attachments/assets/0c3bb752-9477-43cb-9218-36c92907289f) 
+![Screenshot (48)](https://github.com/user-attachments/assets/ea08deda-3235-41a2-a5c5-36cc9eba1a80) 

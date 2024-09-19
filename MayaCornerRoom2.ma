@@ -1,6 +1,6 @@
 //Maya ASCII 2025ff03 scene
 //Name: MayaCornerRoom2.ma
-//Last modified: Wed, Sep 18, 2024 06:24:38 PM
+//Last modified: Wed, Sep 18, 2024 06:31:36 PM
 //Codeset: 1252
 requires maya "2025ff03";
 requires "stereoCamera" "10.0";
@@ -13,18 +13,18 @@ fileInfo "product" "Maya 2025";
 fileInfo "version" "2025";
 fileInfo "cutIdentifier" "202407121012-8ed02f4c99";
 fileInfo "osv" "Windows 10 Pro v2009 (Build: 19045)";
-fileInfo "UUID" "01D7B7E1-438F-7748-34D2-C594F465EA3B";
+fileInfo "UUID" "A4DF3347-4AF9-C6A5-C645-DD997383627C";
 createNode transform -s -n "persp";
 	rename -uid "6B03EDC6-4215-BEBB-C757-A0A9FE608144";
-	setAttr ".t" -type "double3" 5.4033565094681117 3.7574585325724095 6.5560519659820669 ;
-	setAttr ".r" -type "double3" -15.600000000000829 -320.20000000035236 1.0349547347347383e-15 ;
+	setAttr ".t" -type "double3" 6.0480795438446622 3.9967221846842556 5.788561286303592 ;
+	setAttr ".r" -type "double3" -17.400000000002006 -313.00000000034055 1.1658952820472234e-15 ;
 	setAttr ".rp" -type "double3" 0 -2.2204460492503131e-16 0 ;
 	setAttr ".rpt" -type "double3" -3.2982782995499201e-17 3.7144690174105834e-17 1.0350381103279022e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "F0AC5499-436F-C603-5DE8-8788F82BE1D3";
 	setAttr -k off ".v";
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 8.6767819098188692;
+	setAttr ".coi" 7.9614777124279765;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -15955,7 +15955,7 @@ createNode shadingEngine -n "phongE2SG";
 createNode materialInfo -n "materialInfo13";
 	rename -uid "B9ACB58F-46E9-22FC-612F-348559526306";
 createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
-	rename -uid "D40E6134-4C07-146A-2222-B0900F1A5F1D";
+	rename -uid "930FF836-4A9D-E20F-9939-B9BB4B759272";
 	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
 	setAttr ".tgi[0].vl" -type "double2" -606.63009537660866 -800.33582369566773 ;
 	setAttr ".tgi[0].vh" -type "double2" -85.668997685431805 276.04683340166673 ;

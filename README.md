@@ -1,7 +1,8 @@
 Most recent update:
 ---------------------------------
-Challenge 4: Finish Detailed Models & Materials 
-![Screenshot (52)](https://github.com/user-attachments/assets/8a268a88-6c70-41a7-9139-a10c99634084)
+Lab 5: Initial Lighting & Render Scene
+![Kitchen corner room lab 5](https://github.com/user-attachments/assets/fa1afd0e-0a10-4b5a-9f47-80a31d2a2e50)
+
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 Box Modeling Screen Shots
@@ -16,3 +17,4 @@ Box Modeling Screen Shots
 ![Screenshot (24)](https://github.com/user-attachments/assets/737e2482-9b04-454f-9609-a6b3d0794456)
 ![Screenshot (42)](https://github.com/user-attachments/assets/0c3bb752-9477-43cb-9218-36c92907289f) 
 ![Screenshot (48)](https://github.com/user-attachments/assets/ea08deda-3235-41a2-a5c5-36cc9eba1a80) 
+![Screenshot (52)](https://github.com/user-attachments/assets/8a268a88-6c70-41a7-9139-a10c99634084)

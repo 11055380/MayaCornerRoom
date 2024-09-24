@@ -1,6 +1,6 @@
 //Maya ASCII 2025ff03 scene
 //Name: MayaCornerRoom2.ma
-//Last modified: Mon, Sep 23, 2024 07:56:01 PM
+//Last modified: Mon, Sep 23, 2024 08:03:06 PM
 //Codeset: 1252
 requires maya "2025ff03";
 requires "stereoCamera" "10.0";
@@ -13,10 +13,10 @@ fileInfo "product" "Maya 2025";
 fileInfo "version" "2025";
 fileInfo "cutIdentifier" "202407121012-8ed02f4c99";
 fileInfo "osv" "Windows 10 Pro v2009 (Build: 19045)";
-fileInfo "UUID" "FB9A6C67-4840-BD1B-6BE7-CF9439BE79EC";
+fileInfo "UUID" "EEAA05A5-4B1E-1463-1A15-F5B91EDC8740";
 createNode transform -s -n "persp";
 	rename -uid "6B03EDC6-4215-BEBB-C757-A0A9FE608144";
-	setAttr ".t" -type "double3" 10.775803540200819 5.973086033932228 5.6543473763400351 ;
+	setAttr ".t" -type "double3" 8.0152724904315402 4.8136247112537731 3.9956529809110997 ;
 	setAttr ".r" -type "double3" -19.800000000000466 -301.00000000030144 0 ;
 	setAttr ".rp" -type "double3" 0 -2.2204460492503131e-16 0 ;
 	setAttr ".rpt" -type "double3" -3.2982782995499201e-17 3.7144690174105834e-17 1.0350381103279022e-16 ;
@@ -24,7 +24,7 @@ createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "F0AC5499-436F-C603-5DE8-8788F82BE1D3";
 	setAttr -k off ".v";
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 13.164042074117875;
+	setAttr ".coi" 9.7411559625221553;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -15894,7 +15894,7 @@ createNode aiPhysicalSky -n "aiPhysicalSky1";
 	setAttr ".elevation" 33;
 	setAttr ".azimuth" 336;
 	setAttr ".sun_size" 5;
-	setAttr ".sun_tint" -type "float3" 1 0.9102 0.551 ;
+	setAttr ".sun_tint" -type "float3" 1 0.90512103 0.52600002 ;
 	setAttr ".intensity" 6;
 select -ne :time1;
 	setAttr ".o" 37;
